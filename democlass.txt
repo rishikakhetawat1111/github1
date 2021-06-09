@@ -1,0 +1,10 @@
+This is my demo file in which im learning for to work with git and github
+i learned many commads 
+repositories
+Basics
+push 
+pull
+git log
+git diff - it compares two files and shows the difference  
+git rebase - it changes the base of your bramch from one commit to another 
+git status - it shows the status of WD 
