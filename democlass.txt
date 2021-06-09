@@ -8,3 +8,8 @@ git log
 git diff - it compares two files and shows the difference  
 git rebase - it changes the base of your bramch from one commit to another 
 git status - it shows the status of WD 
+firstly we make 
+file 
+then add 
+commit 
+push to central repostpry 
